@@ -26,4 +26,4 @@ const UpdateTask = async ({params}: {
   )
 }
 
-export default UpdateTask
+export default UpdateTask;
